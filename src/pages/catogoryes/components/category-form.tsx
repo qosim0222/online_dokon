@@ -119,3 +119,4 @@ export const CategoryForm = ({ closeModal, defaultValue }: Props) => {
     </Form>
   );
 };
+
